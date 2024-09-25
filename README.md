@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
  ### 👨🏻‍💻 **About Me**
 - 🎓 **Education:** Graduated from **Računarski Fakultet** (RAF).
@@ -19,6 +19,9 @@
 ---
 ### Thanks for visiting! Feel free to check out my repositories below. 👇
 ---
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/LazarevicV/count.svg" />
+</p>
 
 <!--
 **LazarevicV/LazarevicV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
