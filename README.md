@@ -9,9 +9,6 @@
   - **Basics of Programming:** C Language  
   - **Progressive Web Applications:** PHP, Laravel  
 
-- 🎯 **Personal Interests:**  
-  When I'm not teaching, I enjoy working on **React** and **TypeScript** projects. Building dynamic, user-friendly web applications with these tools is one of my favorite pastimes.  
-
 ---
 
 ### 🛠 **Technologies & Tools**
