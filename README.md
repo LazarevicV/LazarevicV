@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
  ### 👨🏻‍💻 **About Me**
-- 🎓 **Education:** Graduated from **Računarski Fakultet** (RAF).
-- 💼 **Current Role:** Full-time **Teaching Associate** for various programming and web technologies courses.
+- 🎓 **Education:** 
+  - Graduated from **Računarski Fakultet** (RAF)
+  - I am currently a Master's student in Applied Professional Studies
+- 💼 **Current Role:** Full-time **Teaching Associate** for various programming and web technologies courses
 - 🔥 **Technologies I Teach:**  
   - **Web Systems & Technologies:** Python, Flask, Vue.js  
   - **Web Design & Development:** HTML, CSS, JavaScript  
