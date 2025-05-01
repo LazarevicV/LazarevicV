@@ -9,7 +9,8 @@
   - **Web Systems & Technologies:** Python, Flask, Vue.js  
   - **Web Design & Development:** HTML, CSS, JavaScript  
   - **Basics of Programming:** C Language  
-  - **Progressive Web Applications:** PHP, Laravel  
+  - **Progressive Web Applications:** PHP, Laravel
+  - **Basics of IT:** Python, OOP 
 ---
 ### 🛠 **Technologies & Tools**
 
