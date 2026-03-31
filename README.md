@@ -10,7 +10,8 @@
   - **Web Design & Development:** HTML, CSS, JavaScript  
   - **Basics of Programming:** C Language  
   - **Progressive Web Applications:** PHP, Laravel
-  - **Basics of IT:** Python, OOP 
+  - **Basics of IT:** Python, OOP
+  - **Business software:** Microsoft Word, PowerPoint, Excel and Google Docs, Sheets, Slides
 ---
 ### 🛠 **Technologies & Tools**
 
@@ -22,5 +23,4 @@
 ---
 <p align="center">
   <h2>Thanks for visiting! Feel free to check out my repositories below. 👇</h2>
-  <img src="https://profile-counter.glitch.me/LazarevicV/count.svg" />
 </p>
